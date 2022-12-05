@@ -1,5 +1,11 @@
 <h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
+### 🔨 &nbsp; In the making :
+ - 🌱 I’m currently learning C at [42Lisbon](https://42lisboa.com)
+ - 🔭 I'm currently studying Computer Science at the University.
+ - 🤖 Making a DiscordBot [YourBestBOT](https://yourbestbot.pt)
+ - 📫 How to reach me: [Discord](https://discordapp.com/users/453944662093332490)
+
 ### 🛠 &nbsp;Languages and Tools :
 
 <p>
@@ -17,12 +23,6 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JustShush&theme=onedark_duo&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JustShush&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-### 🔨 &nbsp; In the making :
- - 🌱 I’m currently learning C at [42Lisbon](https://42lisboa.com)
- - 🔭 I'm currently studying Computer Science at the University.
- - 🤖 Making a DiscordBot [YourBestBOT](https://yourbestbot.pt)
- - 📫 How to reach me: [Discord](https://discordapp.com/users/453944662093332490)
  
 <a href="https://discordapp.com/users/453944662093332490"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" title="JustShush" alt="JustShush" /></a> 
 <a href="https://mdinis.pt"><img src="https://img.shields.io/badge/linktree-292929?style=for-the-badge&logo=linktree&logoColor=white)" title="JustShush" alt="JustShush" /></a> 
