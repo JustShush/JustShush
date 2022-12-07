@@ -22,7 +22,7 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JustShush&theme=onedark_duo&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JustShush&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JustShush&layout=compact&theme=vision-friendly-dark)](https://github.com/JustShush/github-readme-stats)
  
 <a href="https://discordapp.com/users/453944662093332490"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" title="JustShush" alt="JustShush" /></a> 
 <a href="https://mdinis.pt"><img src="https://img.shields.io/badge/linktree-292929?style=for-the-badge&logo=linktree&logoColor=white)" title="JustShush" alt="JustShush" /></a>
