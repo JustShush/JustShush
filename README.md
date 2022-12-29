@@ -1,4 +1,4 @@
-<h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"> hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
 <p align="center">
 <a href="https://github.com/JustShush">
@@ -27,11 +27,9 @@
 <summary><b>🔥 My Stats</b></summary>
 <p align="center">
 <br>
-<a href="https://github.com/JustShush?tab=repositories">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JustShush&theme=gruvbox">
+<a href="https://github.com/JustShush?tab=repositories"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JustShush&theme=gruvbox"></a>
     <br>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JustShush&theme=gruvbox"><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JustShush&theme=gruvbox">
-</a>
+    <a href="https://github.com/JustShush?tab=repositories"><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JustShush&theme=gruvbox"></a><a href="https://github.com/JustShush?tab=repositories"><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JustShush&theme=gruvbox"></a>&nbsp;
 </p>
 </details>
  
