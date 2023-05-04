@@ -4,7 +4,7 @@
 <a href="https://github.com/JustShush">
     <img src="https://github-stats-alpha.vercel.app/api?username=JustShush&cc=25292e&tc=FE8018&ic=8EC07C&bc=000">
 </a>
-</p>repos-per-language
+</p>
 
  - 🌱 I’m currently learning C at [42Lisbon](https://42lisboa.com)
  - 🔭 I'm currently studying Computer Science at the University.
