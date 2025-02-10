@@ -6,7 +6,7 @@
 </a>
 </p>
 
- - 🌱 I’m currently learning C and C++ at [42Lisbon](https://42lisboa.com)
+ - 🌱 I’m almost done with the [42Lisbon](https://42lisboa.com) course.
  - 🔭 I'm currently studying Computer Science at the University.
  - 🤖 Making a DiscordBot [YourBestBOT](https://yourbestbot.pt)
  - 📫 How to reach me: [Discord](https://discordapp.com/users/453944662093332490)
